@@ -1,0 +1,8 @@
+F:\c#\pattern\bin\Debug\pattern.exe.config
+F:\c#\pattern\bin\Debug\pattern.exe
+F:\c#\pattern\bin\Debug\pattern.pdb
+F:\c#\pattern\obj\Debug\pattern.csproj.AssemblyReference.cache
+F:\c#\pattern\obj\Debug\pattern.csproj.SuggestedBindingRedirects.cache
+F:\c#\pattern\obj\Debug\pattern.csproj.CoreCompileInputs.cache
+F:\c#\pattern\obj\Debug\pattern.exe
+F:\c#\pattern\obj\Debug\pattern.pdb
