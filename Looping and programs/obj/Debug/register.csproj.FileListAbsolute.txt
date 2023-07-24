@@ -1,0 +1,8 @@
+F:\c#\register\bin\Debug\register.exe.config
+F:\c#\register\bin\Debug\register.exe
+F:\c#\register\bin\Debug\register.pdb
+F:\c#\register\obj\Debug\register.csproj.AssemblyReference.cache
+F:\c#\register\obj\Debug\register.csproj.SuggestedBindingRedirects.cache
+F:\c#\register\obj\Debug\register.csproj.CoreCompileInputs.cache
+F:\c#\register\obj\Debug\register.exe
+F:\c#\register\obj\Debug\register.pdb
