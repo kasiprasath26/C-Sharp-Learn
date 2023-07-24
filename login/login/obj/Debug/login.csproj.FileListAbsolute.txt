@@ -1,0 +1,6 @@
+F:\console learn\login\login\bin\login.dll
+F:\console learn\login\login\bin\login.pdb
+F:\console learn\login\login\obj\Debug\login.dll
+F:\console learn\login\login\obj\Debug\login.pdb
+F:\console learn\login\login\obj\Debug\login.csproj.AssemblyReference.cache
+F:\console learn\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
